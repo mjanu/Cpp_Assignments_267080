@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mondeep/Desktop/C++_essential_LTTS_Submission/Set4/Point/point.h
+math.h
+-
+iostream
+-
+
+/home/mondeep/Desktop/C++_essential_LTTS_Submission/Set4/Point/point_test.cpp
+point.h
+/home/mondeep/Desktop/C++_essential_LTTS_Submission/Set4/Point/point.h
+iostream
+-
+gtest/gtest.h
+-
+

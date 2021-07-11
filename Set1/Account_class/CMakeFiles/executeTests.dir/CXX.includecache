@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mondeep/Desktop/C++_essential_LTTS_Submission/Set1/Account_class/account.cpp
+account.h
+/home/mondeep/Desktop/C++_essential_LTTS_Submission/Set1/Account_class/account.h
+iostream
+-
+
+/home/mondeep/Desktop/C++_essential_LTTS_Submission/Set1/Account_class/account.h
+iostream
+-
+string
+-
+
+/home/mondeep/Desktop/C++_essential_LTTS_Submission/Set1/Account_class/account_test.cpp
+account.h
+/home/mondeep/Desktop/C++_essential_LTTS_Submission/Set1/Account_class/account.h
+account.cpp
+/home/mondeep/Desktop/C++_essential_LTTS_Submission/Set1/Account_class/account.cpp
+gtest/gtest.h
+-
+

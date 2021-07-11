@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mondeep/Desktop/C++_essential_LTTS_Submission/Set2/MyTime_operator_overload/myt_op_over.cpp
+myt_op_over.h
+/home/mondeep/Desktop/C++_essential_LTTS_Submission/Set2/MyTime_operator_overload/myt_op_over.h
+iostream
+-
+
+/home/mondeep/Desktop/C++_essential_LTTS_Submission/Set2/MyTime_operator_overload/myt_op_over.h
+
+/home/mondeep/Desktop/C++_essential_LTTS_Submission/Set2/MyTime_operator_overload/myt_op_over_test.cpp
+myt_op_over.h
+/home/mondeep/Desktop/C++_essential_LTTS_Submission/Set2/MyTime_operator_overload/myt_op_over.h
+myt_op_over.cpp
+/home/mondeep/Desktop/C++_essential_LTTS_Submission/Set2/MyTime_operator_overload/myt_op_over.cpp
+gtest/gtest.h
+-
+

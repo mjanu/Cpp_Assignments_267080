@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mondeep/Desktop/C++_essential_LTTS_Submission/Set2/Fraction_operator_overload/frac_oov.cpp
+frac_oov.h
+/home/mondeep/Desktop/C++_essential_LTTS_Submission/Set2/Fraction_operator_overload/frac_oov.h
+iostream
+-
+
+/home/mondeep/Desktop/C++_essential_LTTS_Submission/Set2/Fraction_operator_overload/frac_oov.h
+
+/home/mondeep/Desktop/C++_essential_LTTS_Submission/Set2/Fraction_operator_overload/frac_test.cpp
+frac_oov.h
+/home/mondeep/Desktop/C++_essential_LTTS_Submission/Set2/Fraction_operator_overload/frac_oov.h
+frac_oov.cpp
+/home/mondeep/Desktop/C++_essential_LTTS_Submission/Set2/Fraction_operator_overload/frac_oov.cpp
+gtest/gtest.h
+-
+

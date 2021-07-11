@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mondeep/Desktop/C++_essential_LTTS_Submission/Set3/Employee/employee.cpp
+iostream
+-
+employee.h
+/home/mondeep/Desktop/C++_essential_LTTS_Submission/Set3/Employee/employee.h
+engineer.h
+/home/mondeep/Desktop/C++_essential_LTTS_Submission/Set3/Employee/engineer.h
+trainee.h
+/home/mondeep/Desktop/C++_essential_LTTS_Submission/Set3/Employee/trainee.h
+manager.h
+/home/mondeep/Desktop/C++_essential_LTTS_Submission/Set3/Employee/manager.h
+
+/home/mondeep/Desktop/C++_essential_LTTS_Submission/Set3/Employee/employee.h
+
+/home/mondeep/Desktop/C++_essential_LTTS_Submission/Set3/Employee/employee_test.cpp
+gtest/gtest.h
+-
+employee.cpp
+/home/mondeep/Desktop/C++_essential_LTTS_Submission/Set3/Employee/employee.cpp
+manager.h
+/home/mondeep/Desktop/C++_essential_LTTS_Submission/Set3/Employee/manager.h
+trainee.h
+/home/mondeep/Desktop/C++_essential_LTTS_Submission/Set3/Employee/trainee.h
+engineer.h
+/home/mondeep/Desktop/C++_essential_LTTS_Submission/Set3/Employee/engineer.h
+
+/home/mondeep/Desktop/C++_essential_LTTS_Submission/Set3/Employee/engineer.h
+employee.h
+/home/mondeep/Desktop/C++_essential_LTTS_Submission/Set3/Employee/employee.h
+
+/home/mondeep/Desktop/C++_essential_LTTS_Submission/Set3/Employee/manager.h
+employee.h
+/home/mondeep/Desktop/C++_essential_LTTS_Submission/Set3/Employee/employee.h
+
+/home/mondeep/Desktop/C++_essential_LTTS_Submission/Set3/Employee/trainee.h
+employee.h
+/home/mondeep/Desktop/C++_essential_LTTS_Submission/Set3/Employee/employee.h
+
